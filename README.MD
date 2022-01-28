@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cho Hyun ki</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a backend developer specialized in block chain dapp</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dmsrlgusrl@naver.com</h3>
 <p align="left">
 <a href="https://twitter.com/@stone_chian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stone_chian" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchsry47p2kle749oaajb0yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchsry47p2kle749oaajb0yg" height="30" width="40" /></a>
