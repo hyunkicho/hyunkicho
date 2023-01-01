@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me: dmsrlgusrl@naver.com</h3>
 <p align="left">
-<a href="https://twitter.com/@stone_chian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stone_chian" height="30" width="40" /></a>
+<a href="https://twitter.com/@stone_chian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stone_chain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchsry47p2kle749oaajb0yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchsry47p2kle749oaajb0yg" height="30" width="40" /></a>
 </p>
 
